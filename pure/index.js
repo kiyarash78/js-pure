@@ -568,3 +568,4 @@ console.log(total);      // → 600
 // map: make transformed array
 const withTax = prices.map(p => p * 1.09);
 console.log(withTax);    // → [109, 218, 327]
+
